@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "LBY"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "LBY"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ssssmark.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ssssmark/ssssmark.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -232,18 +232,19 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
+      layout: archive-taxonomy
+      author_profile: false
+      read_time: false
+      comments: false
       share: true
-      related: true
+      related: false
+    
   # _pages
   - scope:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: archive-taxonomy
       author_profile: true
   # _teaching
   - scope:
