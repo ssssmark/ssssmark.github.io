@@ -5,23 +5,20 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "News"
+    url: "/#-news"
+
   - title: "Publications"
-    url: /publications/
+    url: "/#-publications"
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
 
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "Educations"
+    url: "/#-educations"
         
   - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /blog-posts/
