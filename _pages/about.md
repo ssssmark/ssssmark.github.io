@@ -14,6 +14,7 @@ I’m currently a master student at Fudan University at the School of Computer S
 My research interest mainly lies in Multimodal reasoning, LLM Agent, Reinforcement Learning and Efficient AI.
 
 # 🔥 News
+- *2026.1*: &nbsp;🎉🎉 Our paper **Unlocking the Essence of Beauty: Advanced Aesthetic Reasoning with Relative-Absolute Policy Optimization**  is accepted by ICLR 2026! See you in Brazil🇧🇷!
 - *2025.12*: &nbsp;🎉🎉 Our Agent memory survey  **Memory in the Age of AI Agents** is released on [arXiv](https://arxiv.org/abs/2512.13564)!
 - *2025.5*: &nbsp;🎉🎉 Our paper  **Masrouter: Learning to route llms for multi-agent systems** is accepted by ACL 2025 Main!
 
@@ -38,7 +39,7 @@ Yuyang Hu<small>†</small>, Shichun Liu<small>†</small>, Yanwei Yue<small>†
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='../images/aesr1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='../images/aesr1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### Unlocking the Essence of Beauty: Advanced Aesthetic Reasoning with Relative-Absolute Policy Optimization
