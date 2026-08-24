@@ -14,6 +14,7 @@ I’m currently a master student at Fudan University at the School of Computer S
 My research interest mainly lies in Multimodal reasoning, LLM Agent, Reinforcement Learning and Efficient AI.
 
 # 🔥 News
+- *2026.8*: &nbsp;🎉🎉 Our paper **Entropy Is Not Enough: Unlocking Effective Reinforcement Learning for Visual Reasoning via Vision-Anchored Token Selection** is accepted by EMNLP 2026 Findings!
 - *2026.1*: &nbsp;🎉🎉 Our paper **Unlocking the Essence of Beauty: Advanced Aesthetic Reasoning with Relative-Absolute Policy Optimization**  is accepted by ICLR 2026! See you in Brazil🇧🇷!
 - *2025.12*: &nbsp;🎉🎉 Our Agent memory survey  **Memory in the Age of AI Agents** is released on [arXiv](https://arxiv.org/abs/2512.13564)!
 - *2025.5*: &nbsp;🎉🎉 Our paper  **Masrouter: Learning to route llms for multi-agent systems** is accepted by ACL 2025 Main!
@@ -21,9 +22,24 @@ My research interest mainly lies in Multimodal reasoning, LLM Agent, Reinforceme
 
 
 # 💻 Internships
-- <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="/images/ByteDance_logo_English.png" alt="Bytedance" style="max-width: 160px; max-height: 50px;"></span><span style="display: inline-block; vertical-align: middle;">**2025.4 - now**<br>Bytedance, Data-Capcut AIGC research <br>Shanghai, China</span>
+- <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="/images/tencent_logo.png" alt="Tencent" style="max-width: 160px; max-height: 50px;"></span><span style="display: inline-block; vertical-align: middle;">**2026.5 - now**<br>Tencent Hunyuan, LLM Department <br>Shanghai, China</span>
+- <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="/images/ByteDance_logo_English.png" alt="Bytedance" style="max-width: 160px; max-height: 50px;"></span><span style="display: inline-block; vertical-align: middle;">**2025.4 - 2026.4**<br>Bytedance, Data-Capcut AIGC research <br>Shanghai, China</span>
 
 # 📝 Selected Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Findings</div><img src='../images/vepo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### Entropy Is Not Enough: Unlocking Effective Reinforcement Learning for Visual Reasoning via Vision-Anchored Token Selection
+
+Senjie Jin<small>†</small>, Peixin Wang<small>†</small>, **Boyang Liu**<small>†</small>, Xiaoran Fan<small>†</small>, Shuo Li, Zhiheng Xi, Jiazheng Zhang, Yuhao Zhou, Tao Gui, Qi Zhang, Xuanjing Huang
+<br>
+
+- Entropy-based token selection, though effective for text-only RLVR, **collapses on visual reasoning**, as vision-sensitive tokens often carry naturally low entropy. We propose **VEPO**, which multiplicatively couples token-level visual dependency with token entropy, redirecting gradient credit to tokens that are both visually grounded and informative. It outperforms the entropy-only baseline by 2.28 / 3.15 points at 7B / 3B scale.
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2606.03937) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/Leonnnnnn929/VEPO) ![GitHub Repo stars](https://img.shields.io/github/stars/Leonnnnnn929/VEPO)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='../images/memory_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
