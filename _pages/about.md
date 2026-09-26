@@ -9,7 +9,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m currently a master student at Fudan University at the School of Computer Science of Fudan University. I am a member of [Fudan NLP Lab](https://nlp.fudan.edu.cn/), advised by Prof. [Xuanjing Huang (黄萱菁)](https://xuanjing-huang.github.io/) and Associate Prof. [Tao Gui(桂 韬)](https://guitaowufeng.github.io/). I got my bachelor's degree from Tongji University, advised by Associate Prof. [Dawei Cheng](http://cs1.tongji.edu.cn/~dawei/).
+I’m currently a second year master student at Fudan University at the School of Computer Science of Fudan University. I am a member of [Fudan NLP Lab](https://nlp.fudan.edu.cn/), advised by Prof. [Xuanjing Huang (黄萱菁)](https://xuanjing-huang.github.io/) and Associate Prof. [Tao Gui(桂 韬)](https://guitaowufeng.github.io/). I got my bachelor's degree from Tongji University, advised by Associate Prof. [Dawei Cheng](http://cs1.tongji.edu.cn/~dawei/).
 
 My research interest mainly lies in Multimodal reasoning, LLM Agent, Reinforcement Learning and Efficient AI.
 
